@@ -1,6 +1,6 @@
 /****************
 
-LAED1 - Projeto (Parte I) - Busca por padrão em sequência
+LAED 1 - Projeto (Parte I) - Busca por padrão em sequência
 
 Alunos: Lucas Santos Rodrigues (20213001521)
         Vinícius Ferreira Pinheiro (20213005208)
